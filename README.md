@@ -21,10 +21,6 @@ Insurence_premium_prediction project
 ### **This is the screenshot of the webpage which gets user input for prediction**
 ![webpage](static/estimator_user_input.png)
 
-### **This is the screenshot of the page which shows history of the experiment that had run previously and currently running status**
-#### Can be used as experiment history Tracking
-![experiment history](static/Experiment_history.png)
-
 ### **This is the screenshot of the page in which user can change the model parameters for the experiment**
 ![model parameters](static/update_model_config.png)
 
@@ -33,6 +29,5 @@ Insurence_premium_prediction project
 
 ## Conclusion
 
-This Project which predicts the amount of the insurance premium based on different parameters (like Age,BMI etc) for a particular person can be implemented practically and used by Insurance Comapnies in real life. This will help the 
-companies to predict the estimate for Insurance premium for a particular person by considering the risk involved for that particular person. 
+This Project which predicts the amount of the insurance premium based on different parameters (like Age,BMI etc) for a particular person can be implemented practically and used by Insurance Comapnies in real life. This will help the companies to predict the estimate for Insurance premium for a particular person by considering the risk involved for that particular person. 
 
