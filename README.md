@@ -31,3 +31,5 @@ Insurence_premium_prediction project
 
 This Project which predicts the amount of the insurance premium based on different parameters (like Age,BMI etc) for a particular person can be implemented practically and used by Insurance Comapnies in real life. This will help the companies to predict the estimate for Insurance premium for a particular person by considering the risk involved for that particular person. 
 
+## Deployment url:
+http://inusurence-new-env.eba-kcem3bht.ap-south-1.elasticbeanstalk.com/
